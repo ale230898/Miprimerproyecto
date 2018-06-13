@@ -1,0 +1,17 @@
+commit bb4638e98e20d3b7ebf82dd18d4c4b3f70eec439
+Author: Alexander Colmenarez <alexcolmenarez23@gmail.com>
+Date:   Wed Jun 13 14:39:53 2018 -0430
+
+    Agregando el archivo otro.txt
+
+commit 34b0cb90868debb21afd3a7836c53d2e9de1043a
+Author: Alexander Colmenarez <alexcolmenarez23@gmail.com>
+Date:   Wed Jun 13 14:36:56 2018 -0430
+
+    segundo commit
+
+commit d1de23a483991909d0bc7f411b3097fa2b31b904
+Author: Alexander Colmenarez <alexcolmenarez23@gmail.com>
+Date:   Wed Jun 13 14:35:14 2018 -0430
+
+    Primer commit
